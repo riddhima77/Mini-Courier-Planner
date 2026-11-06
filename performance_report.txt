@@ -1,0 +1,26 @@
+MINI-COURIER PLANNER
+PERFORMANCE ANALYSIS REPORT
+
+1. SORTING
+Sorting was used to prioritize parcels based on priority and deadline.
+It showed fast execution across different dataset sizes.
+
+2. KNAPSACK
+Dynamic Programming was used to select parcels within the
+available box capacity.
+Its runtime increased with the number of parcels.
+
+3. DIJKSTRA
+Dijkstra's algorithm was used to calculate shortest paths
+between the warehouse and delivery locations.
+It performed efficiently on the tested graphs.
+
+4. NEAREST NEIGHBOR TSP
+Nearest Neighbor approximation was used to generate
+an optimized delivery route.
+Its execution time increased significantly for larger graphs.
+
+5. CONCLUSION
+The project successfully combines sorting, dynamic programming,
+shortest-path algorithms, and route approximation techniques
+to solve a courier delivery planning problem.

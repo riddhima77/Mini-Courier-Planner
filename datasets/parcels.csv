@@ -1,0 +1,6 @@
+Parcel_ID,Destination,Weight,Priority,Deadline
+101,A,2,5,2
+102,B,4,3,5
+103,C,3,4,3
+104,D,5,2,7
+105,E,1,5,1
